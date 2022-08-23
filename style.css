@@ -5,20 +5,19 @@ background-color: black;
 .post {
 background-color: white;
 width: 350px;
-height: 530px;
+height: 500px;
 margin: auto;
 }
 
 .header {
     display:flex;
-    justify-content: space-between;
+    justify-content: space-between
     
 }
 
 .header-left {
     display: flex;
 }
-
 
 
 .logo {
@@ -33,7 +32,7 @@ margin: auto;
 }
 
 .icono_puntos {
-    margin: 12px 10px 15px 335px;
+    margin: 12px 10px 15px 0px;
 }
 
 .puente {
