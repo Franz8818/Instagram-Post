@@ -1,0 +1,76 @@
+body {
+background-color: black;
+}
+
+.post {
+background-color: white;
+width: 350px;
+height: 530px;
+margin: auto;
+}
+
+.header {
+    display:flex;
+    justify-content: space-between;
+    
+}
+
+.header-left {
+    display: flex;
+}
+
+
+
+.logo {
+    width: 25px;
+    height: 25px;
+    margin: 12px 10px 5px 10px; 
+}
+
+.titulo { 
+    font-size: 80%;
+    margin:0px 0px 5px 0px;
+}
+
+.icono_puntos {
+    margin: 12px 10px 15px 335px;
+}
+
+.puente {
+    /* width: 350px;
+    height: 200px; */
+}
+
+.iconos {
+    display: flex;
+}
+
+.icono-heart {
+    margin: 10px 5px 10px 10px;
+
+}
+
+.icono-comment {
+    margin: 10px 5px 10px 10px;
+}
+
+.icono-plane {
+    margin: 10px 10px 10px 5px;
+}
+
+.icono-save {
+    margin: 8px 10px 5px 170px;
+}
+
+h6{
+    margin: 10px 0px 0px 0px;
+    /* margin:auto */
+}
+
+.descripcion {
+    margin: 10px 30px 10px 10px;
+}
+
+.likes {
+    margin: 10px 5px 10px 10px;
+}
